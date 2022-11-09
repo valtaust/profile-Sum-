@@ -1,12 +1,10 @@
 - 👋 Hi, I’m Val
-- 👀 I’m interested in medical lab science & programming ...
+- 👀 
 - 🌱 I’m currently learning biochemistry, some scripting codes ...
 - 💞️ I’m looking to collaborate on free wordpress hosting with ec2 or another form of aws, yet to try azure hosting or microservices which are interesting...
 - Skills: typescript, sql, java, php
 - Frameworks angular
 - 📫 How to reach me on my email address attached...
 
-<!---
-valtaust/valtaust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<!---.
 --->
